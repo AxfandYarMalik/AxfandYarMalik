@@ -1,23 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23870
-Fork on GitHub
-8181
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Asfand Yar Malik</h1>
 <h3 align="center">I am a full-time Software Quality Assurance (SQA) professional with a strong focus on delivering reliable, high-quality software through thorough testing and continuous improvement. I work closely with development teams to ensure applications meet functional, performance, and usability standards by identifying issues early and validating solutions effectively. Alongside my SQA role, I work as a part-time Full-Stack Developer, which gives me a deeper understanding of system architecture, APIs, databases, and frontend behavior. This dual perspective allows me to write better test cases, understand root causes faster, and communicate more efficiently with developers. I have experience with manual testing, test case design, bug tracking, API testing, and regression testing, as well as building and maintaining web applications using modern frontend and backend technologies. I am passionate about learning, improving software quality, and contributing to products that provide excellent user experiences.</h3>
 
