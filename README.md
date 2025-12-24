@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Asfand Yar Malik</h1>
 <h3 align="center">
-I am a full-time Software Quality Assurance (SQA) professional focused on delivering reliable, high-quality software through effective testing and collaboration with development teams. I enjoy coding and work as a part-time Full-Stack Developer, which helps me better understand systems, identify root causes quickly, and write more effective test cases.
+I am a full-time Software Quality Assurance (SQA) professional dedicated to ensuring high-quality, reliable software through effective testing and close collaboration with development teams, with a strong passion for coding.
 </h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axfandyarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="axfandyarmalik" /> </p>
 
